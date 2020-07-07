@@ -2,7 +2,7 @@
 An advanced pets plugin for PocketMine-MP, a server software for Minecraft PE servers in PHP. Implements highly customizable pets with interesting features.<br>
 
 ### Installation
-Stable releases of BlockPets will be drafted at the Release tab with a pre-built phar file, and can be found on the Poggit website once released. Alternatively, you can grab a development build from the Poggit button below.
+Stable releases of BlockPetsNew will be drafted at the Release tab with a pre-built phar file, and can be found on the Poggit website once released. Alternatively, you can grab a development build from the Poggit button below.
 To install:
 - Download one of the pre-built phar files from either releases or the Poggit button below.
 - Drop the phar file in the plugins folder of your server.
