@@ -1,8 +1,5 @@
 # BlockPetsNew
 An advanced pets plugin for PocketMine-MP, a server software for Minecraft PE servers in PHP. Implements highly customizable pets with interesting features.<br>
-> Third party versions, forks or spoons of PocketMine-MP are **not** supported.
->
-> Issues caused by other server softwares than PocketMine-MP will be closed immediately.
 
 ### Installation
 Stable releases of BlockPets will be drafted at the Release tab with a pre-built phar file, and can be found on the Poggit website once released. Alternatively, you can grab a development build from the Poggit button below.
